@@ -12,7 +12,7 @@
 	<artifactId>Email</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Email</name>
-	<description>MicroServiço de Usuário</description>
+	<description>MicroServiço de Email</description>
 	<url/>
 	<licenses>
 		<license/>

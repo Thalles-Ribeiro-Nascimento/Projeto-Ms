@@ -1,8 +1,6 @@
 package com.senac.ms.User.models;
 
-
 import jakarta.persistence.*;
-
 import java.io.Serializable;
 import java.util.UUID;
 
@@ -10,7 +8,6 @@ import java.util.UUID;
 @Table(name="tb_users")
 public class UserModel implements Serializable {
     private static final long serialVersionUID = 1L;
-
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

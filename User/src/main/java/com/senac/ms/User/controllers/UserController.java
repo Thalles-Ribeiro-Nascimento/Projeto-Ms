@@ -1,6 +1,5 @@
 package com.senac.ms.User.controllers;
 
-import com.fasterxml.jackson.databind.util.BeanUtil;
 import com.senac.ms.User.dtos.UserRecordDto;
 import com.senac.ms.User.models.UserModel;
 import com.senac.ms.User.services.UserService;
